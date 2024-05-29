@@ -1,0 +1,12 @@
+table {
+  text-align: center;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: 10px;
+}
+tr:hover {
+  background-color: #a56666;
+  cursor: pointer;
+}
